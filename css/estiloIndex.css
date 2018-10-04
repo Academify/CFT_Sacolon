@@ -1,0 +1,177 @@
+/* ESTILO INDEX */
+
+
+.bg{
+	background: #ECF081;
+	margin: 0;
+	height: 100%;
+
+}
+
+#topoPagina{
+	width: 100%;
+	height: 35%;
+    position: absolute;
+	top:0px;
+}
+
+#cabecalho {
+	background-image: url(img/fundo.png);
+	width: 100%;
+	height: 80%;
+	margin: 0;
+	padding: 0;
+	position: relative;
+}
+
+#tamanhoLogo{
+	width: 100%;
+	height: 100%;
+	margin: 0;
+	padding: 0;
+}
+#tamanhoCesta{
+	width: 100%;
+	height: 100%;
+	margin: 0;
+	padding: 0;
+}
+.botaoCesta{
+	background-color: transparent;
+
+}
+
+#posicaoLogo{
+	width: 20%;
+	height: 100%;
+	float: left;
+	margin-left: 40%;
+}
+
+#posicaoCesta{
+	width: 20%;
+	float: right;
+	margin-top: 3.5%;
+}
+
+#menu{
+	background-color: #FFBE40;
+	width: 100%;
+	height: 20%;
+	margin: 0;
+	padding: 0;
+	/*position: relative;*/
+}
+
+.fonteMenu{
+	color: #AB3E5B;
+	font-family: bebas;
+}
+
+.tabs.tabs-transparent .tab a:hover,
+.tabs.tabs-transparent .tab a.active {
+  color: #FFBE40;
+}
+
+.tabs .tab a:hover, .tabs .tab a.active {
+	background-color: #AB3E5B;
+}
+
+.tabs.tabs-transparent .tab a,
+.tabs.tabs-transparent .tab.disabled a,
+.tabs.tabs-transparent .tab.disabled a:hover {
+  color: #AB3E5B;
+
+}
+.tabs .tab {
+  width: 16.665%;
+}
+
+.tabs .tab a {
+  font-size: 18px;
+}
+
+@font-face{
+	font-family: bebas;
+	src: local(fontes/BEBAS.ttf);
+	src: url(fontes/BEBAS.ttf);
+}
+
+
+#rodape{
+  width: 100%;
+  font-family: bebas;
+  background-color: #AB3E5B;
+  color: #FFBE40;
+  padding: 0;
+  margin-top:10px;
+
+
+}
+#rodape a{
+	color: #FFBE40;
+}
+#ESPACO{
+	height: 5%;
+	width: 100%;
+}
+
+#campoMeio{
+	width: 90%;
+	height: 100%;
+	margin-left: 5%;
+	margin-right: 5%;
+	margin-top:20%;
+	
+	
+}
+nav{
+	background-color: transparent;
+	height: 100%;
+	margin-top: 0;
+	padding:0;
+	line-height: 0;
+}
+
+li{
+	display: inline-block;
+	float: left;
+	width: 100%;
+	height: 10%;
+	padding: 0;
+	position: relative;
+	margin: 0;	
+}
+
+ul{
+	height: 100%;
+	padding:0;
+}
+
+ul:after {
+  clear:both;
+  content: "";
+  display: block;
+}
+
+.nav .ul .li a{
+	padding: 0;
+	margin-top:10%;
+}
+#corpo{
+	height: 70%;
+	width: 100%;
+    position: relative;
+    margin-top: 16.7%;
+}
+
+.btn, .btn-large, .btn-small, .btn-floating{
+	background-color: #FFBE40 ;
+}
+
+.btn:hover{
+	background-color:  #AB3E5B;
+}
+
+
+/* FIM ESTILO INDEX */

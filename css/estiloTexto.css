@@ -1,0 +1,89 @@
+#textoExplicativo{
+	font-family: bebas;
+	font-size: 18px;
+	color: #AB3E5B;
+	text-align: justify;
+	padding: 3%;
+	padding-top: 0;
+	margin: 0;
+	max-height: 100%;
+}
+
+.tituloTexto{
+	font-family: bebas;
+	font-size: 30px;
+	color: #AB3E5B;
+	text-align: center;
+	padding: 3%;
+	margin: 0;
+}
+.campoNoticia{
+	width: 60%;
+	height: 100%;
+	background-color: #FFBE40;
+	margin-right: 20%;
+	margin-left: 19%;
+	margin-top: 3.5%;
+}
+.campoTextoInformativo{
+	width: 90%;
+	height: 100%;
+	background-color: #FFBE40;
+	margin-right: 5%;
+	margin-left: 5%;
+	margin-top: 19%;
+	margin-bottom: 0.5%;
+}
+input[type=email]:not(.browser-default):focus:not([readonly]) + label,
+input[type=password]:not(.browser-default):focus:not([readonly]) + label,
+input[type=email]:not(.browser-default):active:not([readonly]) + label,
+input[type=password]:not(.browser-default):active:not([readonly]) + label, 
+input[type=text]:not(.browser-default):focus:not([readonly]) + label,
+input[type=text]:not(.browser-default):active:not([readonly]) + label,
+input[type=number]:not(.browser-default):focus:not([readonly]) + label,
+input[type=number]:not(.browser-default):active:not([readonly]) + label{
+	border: #AB3E5B;
+
+
+}
+
+input[type=password]:not(.browser-default):focus:not([readonly]), 
+input[type=email]:not(.browser-default):focus:not([readonly]),
+input[type=email]:not(.browser-default):active:not([readonly]),
+input[type=password]:not(.browser-default):active:not([readonly]),
+input[type=text]:not(.browser-default):active:not([readonly]),
+input[type=text]:not(.browser-default):focus:not([readonly]), 
+input[type=number]:not(.browser-default):active:not([readonly]),
+input[type=number]:not(.browser-default):focus:not([readonly]){
+	border-bottom: 1px solid #AB3E5B;
+    -webkit-box-shadow: 0 1px 0 0 #AB3E5B;
+    box-shadow: 0 1px 0 0 #AB3E5B;
+    font-family: bebas;
+	font-size: 18px;
+	color: #AB3E5B;
+}
+ 	
+input::placeholder{
+	color: #AB3E5B;
+	font-family: bebas;
+	opacity: 1;
+}
+
+input[type=password]:not(.browser-default), 
+input[type=email]:not(.browser-default),
+input[type=text]:not(.browser-default),
+input[type=number]:not(.browser-default)
+ {
+    background-color: transparent;
+    border-bottom: 1px solid #AB3E5B;
+    font-family: bebas;
+	font-size: 18px;
+	color: #AB3E5B;
+}
+
+.input-field, option{
+	color: #AB3E5B;
+	font-family: bebas;
+	font-size: 18px;
+
+}

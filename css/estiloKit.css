@@ -1,0 +1,143 @@
+#tabelaProdutosKit{
+	border: 3px solid;
+	border-color: #AB3E5B;
+	border-radius: 20px;
+	margin-left: 5%;
+	margin-right: 5%;
+	margin-bottom: 2%;
+	width: 90%;
+}
+.campoMeuKit{
+	width: 75%;
+	height: 100%;
+	background-color: #FFBE40;
+	margin-right: 5%;
+	margin-left: 5%;
+	margin-top: 19%;
+	margin-bottom: 0.5%;
+}
+
+
+#tituloTabela{
+	font-family: bebas;
+	font-size: 18px;
+	color: #FFBE40;
+	text-align: center;
+	background: #AB3E5B;
+	font-weight: normal;
+	border-radius: 0;
+}
+
+#qtdItem{
+	font-family: bebas;
+	font-size: 16px;
+	color: #AB3E5B;
+	text-align: center;
+}
+#nomeItem{
+	font-family: bebas;
+	font-size: 16px;
+	color: #AB3E5B;
+	text-align: center;
+}
+
+#precoUniItem{
+	font-family: bebas;
+	font-size: 16px;
+	color: #AB3E5B;
+	text-align: center;
+}
+
+#precoTotalItem{
+	font-family: bebas;
+	font-size: 16px;
+	color: #AB3E5B;
+	text-align: center;
+}
+
+#iconeExcluir{
+	height: 30px;
+	width: 30px;
+}
+
+
+
+#botaoAddProduto{
+	width: 15%;
+	height: 8%;
+	margin-right: 1%;
+	margin-left: 5%;
+	margin-top: 1%;
+	margin-bottom: 2%;
+	color: #AB3E5B;
+	font-family: bebas;
+	font-size: 14px;
+	background-color: #EF746F;
+}
+
+#botaoAddProduto:hover{
+	color: #FFBE40;
+	background-color: #AB3E5B;
+}
+
+#botaoLimparKit{
+	width: 15%;
+	height: 8%;
+	margin-right: 26.5%;
+	margin-left: 0%;
+	margin-top: 1%;
+	color: #AB3E5B;
+	font-family: bebas;
+	font-size: 14px;
+	background-color: #EF746F;
+		margin-bottom: 2%;
+
+}
+
+#botaoLimparKit:hover{
+	color: #FFBE40;
+	background-color: #AB3E5B;
+}
+#botaoExcluirKit{
+	width: 15%;
+	height: 8%;
+	margin-right: 1%;
+	margin-left: 0%;
+	margin-top: 1%;
+	color: #AB3E5B;
+	font-family: bebas;
+	font-size: 14px;
+	background-color: #EF746F;
+		margin-bottom: 2%;
+
+}
+
+#botaoExcluirKit:hover{
+	color: #FFBE40;
+	background-color: #AB3E5B;
+}
+#botaoSalvarKit{
+	width: 15%;
+	height: 8%;
+	margin-right: 5%;
+	margin-left: 0%;
+	margin-top: 1%;
+	color: #AB3E5B;
+	font-family: bebas;
+	font-size: 14px;
+	background-color: #EF746F;
+	margin-bottom: 2%;
+
+}
+
+#botaoSalvarKit:hover{
+	color: #FFBE40;
+	background-color: #AB3E5B;
+}
+
+#fotoPerfil{
+	width: 100%;
+	margin-right: 0;
+	margin-top: 5%;
+	border: solid #AB3E5B 3px;
+}

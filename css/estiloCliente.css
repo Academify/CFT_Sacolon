@@ -1,0 +1,114 @@
+	#campoCliente{
+	background: #EF746F;
+	position: absolute;
+	width: 18%;
+	height: 89%;
+	top: 10%;
+	border-width:5px;
+	border-style:solid;
+	border-color:#AB3E5B;
+	border-top: 0;
+	right: 1%;
+
+}
+#topoCampoCliente{
+	width: 18%;
+	height: 10%;
+	background-color: #AB3E5B;
+	top:0%;
+	right: 1%;
+	position: absolute;
+
+
+	border-width:5px;
+	border-style:solid;
+	border-color:#AB3E5B;
+
+	border-top: 0;
+	border-bottom: 0;
+}
+
+.textoTopoCampoCliente{
+	color: #FFBE40;
+	font-family: bebas;
+	font-size: 20px;
+	text-align: center;
+	margin-bottom: 5%;
+	margin-top: 10%;
+	width: 100%;
+}
+
+#imgCliente{
+	width: 50%;
+	height: 20%;
+	margin-right: 25%;
+	margin-left: 25%;
+	margin-top: 5%;
+	border: solid #AB3E5B 3px;
+}
+#nomeCliente{
+	font-family: bebas;
+	font-size: 20px;
+	color: #AB3E5B;
+	text-align: center;
+	margin-bottom: 20px;
+}
+#botaoNovoKit{
+	width: 30%;
+	margin-top: 1%;
+	color: #AB3E5B;
+	font-family: bebas;
+	font-size: 14px;
+	background-color: #FFBE40;
+}
+
+#botaoNovoKit:hover{
+	color: #FFBE40;
+	background-color: #AB3E5B;
+}
+
+#botaoAlterarDados{
+	width: 50%;
+	height: %;
+	margin-right: 3%;
+	margin-left: 4%;
+	margin-top: 1%;
+	color: #AB3E5B;
+	font-family: bebas;
+	font-size: 14px;
+	background-color: #FFBE40;
+}
+
+#botaoAlterarDados:hover{
+	color: #FFBE40;
+	background-color: #AB3E5B;
+}
+#listaKits{
+	margin-top: 5%;
+	font-family: bebas;
+	font-size: 16px;
+	color: #AB3E5B;
+	text-align: left;
+	border: 0;
+	margin: 0;
+	height: 55%;
+
+}
+#txtKit{
+	color: #AB3E5B;
+	font-family: bebas;
+	font-size: 16px;
+	font-style: normal;
+	text-decoration: underline;
+}
+
+#kitLista{
+	background-color: transparent;
+	border: 0;
+	padding: 8px;
+	text-align: left;
+	border-top: solid #AB3E5B 2px;
+	height: 25%;
+	width: 100%;
+	margin: 0;
+}

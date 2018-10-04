@@ -1,0 +1,156 @@
+#tabelaProdutosCesta{
+	border: 3px solid;
+	border-color: #AB3E5B;
+	border-radius: 20px;
+	margin-left: 5%;
+	margin-right: 5%;
+	margin-bottom: 2%;
+	width: 90%;
+}
+.campoMinhaCesta{
+	width: 75%;
+	height: 100%;
+	background-color: #FFBE40;
+	margin-right: 5%;
+	margin-left: 3%;
+	margin-top: 19%;
+	margin-bottom: 0.5%;
+}
+
+#listaKits{
+	margin-top: 5%;
+	font-family: bebas;
+	font-size: 16px;
+	color: #AB3E5B;
+	text-align: left;
+	border: 0;
+	margin: 0;
+	height: 55%;
+
+}
+#txtKit{
+	color: #AB3E5B;
+	font-family: bebas;
+	font-size: 16px;
+	font-style: normal;
+	text-decoration: underline;
+}
+
+#kitLista{
+	background-color: transparent;
+	border: 0;
+	padding: 8px;
+	text-align: left;
+	border-top: solid #AB3E5B 2px;
+	height: 25%;
+	width: 100%;
+	margin: 0;
+}
+#imgInfoKit{
+	width: 20px;
+	height: 20px;
+}
+
+#imgAddKit{
+	width: 30px;
+	height: 30px;
+}
+
+#tituloTabela{
+	font-family: bebas;
+	font-size: 18px;
+	color: #FFBE40;
+	text-align: center;
+	background: #AB3E5B;
+	font-weight: normal;
+	border-radius: 0;
+}
+
+#qtdItem{
+	font-family: bebas;
+	font-size: 16px;
+	color: #AB3E5B;
+	text-align: center;
+}
+#nomeItem{
+	font-family: bebas;
+	font-size: 16px;
+	color: #AB3E5B;
+	text-align: center;
+}
+
+#precoUniItem{
+	font-family: bebas;
+	font-size: 16px;
+	color: #AB3E5B;
+	text-align: center;
+}
+
+#precoTotalItem{
+	font-family: bebas;
+	font-size: 16px;
+	color: #AB3E5B;
+	text-align: center;
+}
+
+#iconeExcluir{
+	height: 30px;
+	width: 30px;
+}
+
+
+
+#botaoAddProduto{
+	width: 20%;
+	height: 8%;
+	margin-right: 24%;
+	margin-left: 5%;
+	margin-top: 1%;
+	margin-bottom: 2%;
+	color: #AB3E5B;
+	font-family: bebas;
+	font-size: 14px;
+	background-color: #EF746F;
+}
+
+#botaoAddProduto:hover{
+	color: #FFBE40;
+	background-color: #AB3E5B;
+}
+
+#botaoLimparCesta{
+	width: 20%;
+	height: 8%;
+	margin-right: 5%;
+	margin-left: 0%;
+	margin-top: 1%;
+	color: #AB3E5B;
+	font-family: bebas;
+	font-size: 14px;
+	background-color: #EF746F;
+		margin-bottom: 2%;
+
+}
+
+#botaoLimparCesta:hover{
+	color: #FFBE40;
+	background-color: #AB3E5B;
+}
+#botaoFinalizarCompra{
+	width: 20%;
+	height: 8%;
+	margin-right: 5%;
+	margin-left: 0%;
+	margin-top: 1%;
+	color: #AB3E5B;
+	font-family: bebas;
+	font-size: 14px;
+	background-color: #EF746F;
+		margin-bottom: 2%;
+
+}
+
+#botaoFinalizarCompra:hover{
+	color: #FFBE40;
+	background-color: #AB3E5B;
+}

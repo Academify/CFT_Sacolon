@@ -1,0 +1,32 @@
+#formCadastro{
+	width: 96%;
+	height: 60%;
+	background-color: #FFBE40;
+	margin-right: 2%;
+	margin-left: 2%;
+	margin-top: 19%;
+	padding: 2%;
+}
+#botaoCadastro{
+	width: 20%;
+	height: 15%;
+	margin-left: 6%;
+	margin-top: 1%;
+	color: #AB3E5B;
+	font-family: bebas;
+	text-align: center;
+	font-size: 18px;
+	background-color: #EF746F;
+	position: absolute;
+
+}
+#botaoCadastro:hover{
+	color: #FFBE40 ;
+	background-color: #AB3E5B;
+}
+
+#tituloCadastro{
+	padding: 0;
+	margin: 0;
+
+}

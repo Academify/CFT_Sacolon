@@ -1,0 +1,60 @@
+/* ESTILO CATEGORIA */
+
+.Categorias{
+	background: #FFBE40;
+	position: absolute;
+	top: 15%;
+	width: 100%;
+	height: 72%;
+	float: left;
+	padding-bottom: 0.05%;
+}
+
+#topoCategoria{
+	width: 103%;
+	height: 10%;
+	float: left;
+	background-color: #AB3E5B;
+	position: absolute;
+	top: 5%;
+	box-shadow: 0 1px 0 0 #AB3E5B;
+	border-style: 
+}
+
+.textoTopoCat{
+	color: #FFBE40;
+	font-family: bebas;
+	font-size: 200%;
+	overflow: hidden;
+	margin:0;
+	text-align: center;
+	margin-bottom: 5%;
+	margin-top: 5%;
+}
+
+.Categorias nav ul li {
+	height: 12.5%;
+}
+
+.fonteCategoria{
+	color: #AB3E5B;
+	font-family: bebas;
+	text-align: center;
+	font-size: 18px;
+}
+
+a.fonteCategoria {
+	height: 100%;
+	padding: 8% 0;
+	margin:0;
+	line-height: 100%;
+}
+
+
+#divCategoria{
+	position: absolute;
+	width: 13%;
+	height: 35%;
+	min-height: 470px;
+}
+/* FIM ESTILO CATEGORIA */
