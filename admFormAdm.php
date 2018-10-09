@@ -1,5 +1,6 @@
 <?php
 
+
 	$idAdm = 0;
 	$nome = "";
 	$login = "";
@@ -32,7 +33,7 @@
 	}
 
 ?>
-
+<!--teste thiago-->
 <!DOCTYPE html>
 <html>
 	<head>
