@@ -33,7 +33,6 @@
 	}
 
 ?>
-<!--teste thiago-->
 <!DOCTYPE html>
 <html>
 	<head>
