@@ -73,24 +73,6 @@
 		<link rel="stylesheet" type="text/css" href="css/estiloTexto.css">
 		<link rel="stylesheet" type="text/css" href="css/estiloCadastro.css">
 		<link rel="icon" href="css/img/logo.ico" type="image/x-icon" />
-		<script type="text/javascript" src="js/jquery.js"></script>
-		<script type="text/javascript" src="jquery.mask.js"></script>
-		<script type="text/javascript" src="js/jquery.validate.js"></script>
-		<script type="text/javascript" src="js/cadastro.js"></script>
-		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.mask/1.14.0/jquery.mask.js"></script>
-
-
-		<script type="text/javascript">
-			$(document).ready(function(){
-				$('#telefone').mask('(00) 00000-0000');
-				})
-		</script>
-		<script type="text/javascript">
-			$(document).ready(function(){
-				$('#cep').mask('00.000-000');
-				})
-		</script>
-
 
 		<meta charset="utf-8">
 	</head>
@@ -221,6 +203,10 @@
 		</div>
     </footer>
 
-
+		<script type="text/javascript" src="js/jquery.js"></script>
+		<script type="text/javascript" src="jquery.mask.js"></script>
+		<script type="text/javascript" src="js/jquery.validate.js"></script>
+		<script type="text/javascript" src="js/cadastro.js"></script>
+		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.mask/1.14.0/jquery.mask.js"></script>
 </body>
 </html>
